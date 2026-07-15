@@ -1271,7 +1271,7 @@ export default function App() {
 
       {/* FLOATING ACTION WIDGET (Bottom Right on Desktop / Sticky Mobile Bar) */}
       {showFloatingWidget && (
-        <div className="fixed bottom-6 right-6 z-40 flex flex-col gap-3 max-w-[90vw]">
+        <div className="fixed bottom-24 md:bottom-6 right-6 z-40 flex flex-col gap-3 max-w-[90vw]">
           
           {/* Quick Consultation Badge */}
           <button
