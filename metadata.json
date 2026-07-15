@@ -1,0 +1,6 @@
+{
+  "name": "온결행정사사무소",
+  "description": "음주운전 면허취소 및 면허정지 구제를 위한 법률 자문 및 행정심판 전문 상담 서비스 (온결행정사사무소)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
